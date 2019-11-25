@@ -1,5 +1,5 @@
 {
-    "name":         "behat/mink-selenium2-driver",
+    "name":         "damien-list/mink-selenium2-driver",
     "description":  "Selenium2 (WebDriver) driver for Mink framework",
     "keywords":     ["selenium", "webdriver", "javascript", "ajax", "testing", "browser"],
     "homepage":     "http://mink.behat.org/",
@@ -20,7 +20,7 @@
     ],
     "require": {
         "php":                       ">=5.4",
-        "behat/mink":                "~1.7@dev",
+        "damien-list/mink":          "dev-master",
         "instaclick/php-webdriver":  "~1.1"
     },
     "require-dev": {
